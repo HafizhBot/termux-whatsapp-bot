@@ -15,11 +15,11 @@ const speed = require('performance-now');
 const apivhtear = 'apivhtear';
 const apibarbar = 'apibarbar';
 const tobzkey = 'apitobz';
-const ovo = '082223014661';
-const pulsa = '082223014661';
-const dana = '082223014661';
-const BotName = 'Lexa'; 
-const instagram = 'https://www.instagram.com/mrf.zvx'; 
+const ovo = '085741056111';
+const pulsa = '085741056111';
+const dana = '085741056111';
+const BotName = 'Doraemon BOT'; 
+const instagram = 'https://www.instagram.com/hafizh.021y/'; 
 const aktif = '08:00 - 22:00';
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n' 
