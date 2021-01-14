@@ -15,17 +15,17 @@ const speed = require('performance-now');
 const apivhtear = 'apivhtear';
 const apibarbar = 'apibarbar';
 const tobzkey = 'apitobz';
-const ovo = '082223014661';
-const pulsa = '082223014661';
-const dana = '082223014661';
-const BotName = 'Lexa'; 
-const instagram = 'https://www.instagram.com/mrf.zvx'; 
-const aktif = '08:00 - 22:00';
+const ovo = '085741056111';
+const pulsa = '085741056111';
+const dana = '085741056111';
+const BotName = 'Doraemon BOT'; 
+const instagram = 'https://www.instagram.com/hafizh.021y/'; 
+const aktif = '08:00 - 20:00';
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n' 
-            + 'FN:Mrf.zvx\n' // Nama kamu
-            + 'ORG:Lexa;\n' // Nama bot
-            + 'TEL;type=CELL;type=VOICE;waid=6282223014651:+62 822-2301-4661\n' //Nomor whatsapp kamu
+            + 'FN:Mrf.zvx\n' // Hafizh Maryuki N
+            + 'ORG:Lexa;\n' // Doraemon BOT
+            + 'TEL;type=CELL;type=VOICE;waid=6282223014651:+62 822-2301-4661\n' //+62 857-4105-6111
             + 'END:VCARD'
 const
 {
